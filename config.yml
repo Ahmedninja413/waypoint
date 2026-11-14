@@ -1,0 +1,4 @@
+# Max waypoints per player (1-45)
+max-waypoints: 45
+# true = use the custom texture from the resource pack. false = plain map icon.
+custom-model: true
